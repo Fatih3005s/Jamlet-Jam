@@ -1,0 +1,533 @@
+fileFormatVersion: 2
+guid: ce11e4020eebe5d4a846ed42fa25bff2
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -5356553571634139519
+    second: ClubAttack-removebg-preview (2)_0
+  - first:
+      213: 596438973923035005
+    second: ClubAttack-removebg-preview (2)_1
+  - first:
+      213: -4563998992469374951
+    second: ClubAttack-removebg-preview (2)_2
+  - first:
+      213: -5944198042105801981
+    second: ClubAttack-removebg-preview (2)_3
+  - first:
+      213: 1403886517088141823
+    second: ClubAttack-removebg-preview (2)_4
+  - first:
+      213: -3308072503997398147
+    second: ClubAttack-removebg-preview (2)_5
+  - first:
+      213: 7250295536114350128
+    second: ClubAttack-removebg-preview (2)_6
+  - first:
+      213: 2526267715655883816
+    second: ClubAttack-removebg-preview (2)_7
+  - first:
+      213: 5130159304337112342
+    second: ClubAttack-removebg-preview (2)_8
+  - first:
+      213: 631483470956865231
+    second: ClubAttack-removebg-preview (2)_9
+  - first:
+      213: 4617252434689341174
+    second: ClubAttack-removebg-preview (2)_10
+  - first:
+      213: 7243517734772657655
+    second: ClubAttack-removebg-preview (2)_11
+  - first:
+      213: -8790460965978406042
+    second: ClubAttack-removebg-preview (2)_12
+  - first:
+      213: -4517448860767839119
+    second: ClubAttack-removebg-preview (2)_13
+  - first:
+      213: 7953997525849163122
+    second: ClubAttack-removebg-preview (2)_14
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 75
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: ClubAttack-removebg-preview (2)_0
+      rect:
+        serializedVersion: 2
+        x: 53
+        y: 758
+        width: 166
+        height: 266
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 18ea56628e2b9a5b0800000000000000
+      internalID: -5356553571634139519
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ClubAttack-removebg-preview (2)_1
+      rect:
+        serializedVersion: 2
+        x: 338
+        y: 758
+        width: 157
+        height: 266
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d7781e2361af64800800000000000000
+      internalID: 596438973923035005
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ClubAttack-removebg-preview (2)_2
+      rect:
+        serializedVersion: 2
+        x: 518
+        y: 758
+        width: 250
+        height: 260
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9184f92f81b69a0c0800000000000000
+      internalID: -4563998992469374951
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ClubAttack-removebg-preview (2)_3
+      rect:
+        serializedVersion: 2
+        x: 789
+        y: 758
+        width: 180
+        height: 266
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 30316b9df57f18da0800000000000000
+      internalID: -5944198042105801981
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ClubAttack-removebg-preview (2)_4
+      rect:
+        serializedVersion: 2
+        x: 57
+        y: 460
+        width: 181
+        height: 287
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ff1cff3695b9b7310800000000000000
+      internalID: 1403886517088141823
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ClubAttack-removebg-preview (2)_5
+      rect:
+        serializedVersion: 2
+        x: 295
+        y: 459
+        width: 188
+        height: 280
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d738ff3a59d5712d0800000000000000
+      internalID: -3308072503997398147
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ClubAttack-removebg-preview (2)_6
+      rect:
+        serializedVersion: 2
+        x: 510
+        y: 447
+        width: 219
+        height: 270
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 03832ba50693e9460800000000000000
+      internalID: 7250295536114350128
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ClubAttack-removebg-preview (2)_7
+      rect:
+        serializedVersion: 2
+        x: 778
+        y: 146
+        width: 215
+        height: 571
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 82cd4374a1b1f0320800000000000000
+      internalID: 2526267715655883816
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ClubAttack-removebg-preview (2)_8
+      rect:
+        serializedVersion: 2
+        x: 41
+        y: 154
+        width: 211
+        height: 274
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 61dbd20e4bcf13740800000000000000
+      internalID: 5130159304337112342
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ClubAttack-removebg-preview (2)_9
+      rect:
+        serializedVersion: 2
+        x: 299
+        y: 145
+        width: 199
+        height: 283
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fc62aeffeda73c800800000000000000
+      internalID: 631483470956865231
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ClubAttack-removebg-preview (2)_10
+      rect:
+        serializedVersion: 2
+        x: 522
+        y: 146
+        width: 197
+        height: 282
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6f637f740a6c31040800000000000000
+      internalID: 4617252434689341174
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ClubAttack-removebg-preview (2)_11
+      rect:
+        serializedVersion: 2
+        x: 47
+        y: 0
+        width: 205
+        height: 133
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7fdcd518005268460800000000000000
+      internalID: 7243517734772657655
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ClubAttack-removebg-preview (2)_12
+      rect:
+        serializedVersion: 2
+        x: 305
+        y: 0
+        width: 199
+        height: 133
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6638be64352020680800000000000000
+      internalID: -8790460965978406042
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ClubAttack-removebg-preview (2)_13
+      rect:
+        serializedVersion: 2
+        x: 543
+        y: 0
+        width: 186
+        height: 133
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 17c90f2123cce41c0800000000000000
+      internalID: -4517448860767839119
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ClubAttack-removebg-preview (2)_14
+      rect:
+        serializedVersion: 2
+        x: 797
+        y: 0
+        width: 198
+        height: 112
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 27543909b96426e60800000000000000
+      internalID: 7953997525849163122
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      ClubAttack-removebg-preview (2)_0: -5356553571634139519
+      ClubAttack-removebg-preview (2)_1: 596438973923035005
+      ClubAttack-removebg-preview (2)_10: 4617252434689341174
+      ClubAttack-removebg-preview (2)_11: 7243517734772657655
+      ClubAttack-removebg-preview (2)_12: -8790460965978406042
+      ClubAttack-removebg-preview (2)_13: -4517448860767839119
+      ClubAttack-removebg-preview (2)_14: 7953997525849163122
+      ClubAttack-removebg-preview (2)_2: -4563998992469374951
+      ClubAttack-removebg-preview (2)_3: -5944198042105801981
+      ClubAttack-removebg-preview (2)_4: 1403886517088141823
+      ClubAttack-removebg-preview (2)_5: -3308072503997398147
+      ClubAttack-removebg-preview (2)_6: 7250295536114350128
+      ClubAttack-removebg-preview (2)_7: 2526267715655883816
+      ClubAttack-removebg-preview (2)_8: 5130159304337112342
+      ClubAttack-removebg-preview (2)_9: 631483470956865231
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

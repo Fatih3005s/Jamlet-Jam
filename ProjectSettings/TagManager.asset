@@ -1,0 +1,61 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 3
+  tags:
+  - Wood
+  - Glass
+  - Rock
+  - Ground
+  - Glass
+  - Rock
+  - Wood
+  - Target
+  - Plane
+  - Wood
+  - Glass
+  - Rock
+  - Ground
+  - Target
+  - VillagerController
+  - PotionTarget
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - Water
+  - Water
+  - UI
+  - Enemy
+  - ThrowableItems
+  - Player
+  - Potion
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  m_RenderingLayers:
+  - Default
